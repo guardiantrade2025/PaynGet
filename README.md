@@ -1,1 +1,1 @@
-# PaynGet
+# p2p-dashboard
